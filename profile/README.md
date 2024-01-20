@@ -4,7 +4,7 @@ Boas vindas ao GitHub do PET-BCC!
 
 Essa organização foi criada para os integrantes do PET e para ajudar a divulgação dos nossos projetos.
 
-Dentro dessa organização, você pode encontrar os projetos que foram desenvolvidos pela gente, e também o nosso mais novo repositorio de disciplinas que agora também está [disponível no GitHub.](https://github.com/petbccufscar/repositorio)
+Dentro dessa organização, você pode encontrar os projetos que foram desenvolvidos pela gente, e também o nosso mais novo repositorio de disciplinas colaborativo, o [PET COLAB.](https://github.com/petbccufscar/PET-COLAB)
 
 
 ## Se conecte com a gente
